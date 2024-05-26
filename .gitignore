@@ -1,0 +1,4 @@
+.idea 
+venv
+pyshell/configs/
+main.py
